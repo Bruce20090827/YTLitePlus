@@ -150,3 +150,4 @@
 
 # Building
 See [YTLitePlus/Building - Wiki](https://github.com/Balackburn/YTLitePlus/wiki/Building)
+add text to auto build:)
